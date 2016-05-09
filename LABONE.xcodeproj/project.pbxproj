@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A3221CA31CDDCF9D0044996F /* PlayerDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A3221CA21CDDCF9D0044996F /* PlayerDetailsViewController.swift */; };
 		A38FD2631CCADB1200DA4F24 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A38FD2621CCADB1200DA4F24 /* AppDelegate.swift */; };
 		A38FD2651CCADB1200DA4F24 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A38FD2641CCADB1200DA4F24 /* ViewController.swift */; };
 		A38FD2681CCADB1200DA4F24 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A38FD2661CCADB1200DA4F24 /* Main.storyboard */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A3221CA21CDDCF9D0044996F /* PlayerDetailsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlayerDetailsViewController.swift; sourceTree = "<group>"; };
 		A38FD25F1CCADB1200DA4F24 /* LABONE.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LABONE.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A38FD2621CCADB1200DA4F24 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A38FD2641CCADB1200DA4F24 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 				A38FD2621CCADB1200DA4F24 /* AppDelegate.swift */,
 				A38FD2641CCADB1200DA4F24 /* ViewController.swift */,
 				A38FD2661CCADB1200DA4F24 /* Main.storyboard */,
+				A3221CA21CDDCF9D0044996F /* PlayerDetailsViewController.swift */,
 				A38FD2761CCADF2600DA4F24 /* Player.swift */,
 				A38FD2691CCADB1200DA4F24 /* Assets.xcassets */,
 				A38FD26B1CCADB1200DA4F24 /* LaunchScreen.storyboard */,
@@ -146,6 +149,7 @@
 			files = (
 				A38FD2651CCADB1200DA4F24 /* ViewController.swift in Sources */,
 				A38FD2771CCADF2600DA4F24 /* Player.swift in Sources */,
+				A3221CA31CDDCF9D0044996F /* PlayerDetailsViewController.swift in Sources */,
 				A38FD2751CCADDF000DA4F24 /* PlayersViewControllerTableViewController.swift in Sources */,
 				A38FD2791CCAE02F00DA4F24 /* SampleData.swift in Sources */,
 				A38FD2631CCADB1200DA4F24 /* AppDelegate.swift in Sources */,
@@ -298,6 +302,7 @@
 				A38FD2731CCADB1200DA4F24 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
